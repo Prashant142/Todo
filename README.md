@@ -4,7 +4,7 @@ A Todo list web application built with the MERN stack (MongoDB, Express.js, Reac
 
 ## Features
 
-- Creat and delete todo items
+- Create and delete todo items
 - Mark items as complete or incomplete
 - Persist data with MongoDB and Mongoose
 
